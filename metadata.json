@@ -1,0 +1,5 @@
+{
+  "name": "Clothy",
+  "description": "An AI-powered virtual try-on application. Users upload a photo of themselves and a clothing item, and the app generates a realistic image of them wearing the item. The resulting image can be downloaded.",
+  "requestFramePermissions": []
+}
